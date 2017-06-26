@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Generator.Model.Node">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.Number">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.OperationNode">
+    <Position X="13" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAIAAAAABAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.BynaryOperation">
+    <Position X="15.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.MultOperation">
+    <Position X="16.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.SumOperation">
+    <Position X="14.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.UnaryOperation">
+    <Position X="11" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.TranseOperation">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.InvertOperation">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.BasicNode">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAABAAAAABACAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.BasicMatrixNode">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.QuadMatrix">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.GenericMatrix">
+    <Position X="6.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.Vector">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.Row">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator.Model.Column">
+    <Position X="3" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Tree\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
